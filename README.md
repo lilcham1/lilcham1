@@ -1,6 +1,5 @@
 ### Hi, I'm lilxcham
 
-Vibe coder and Discord server manager for YouTubers since 2018.
 
 **Portfolio:** [lilxcham.com](https://lilxcham.com)
 
