@@ -6,7 +6,7 @@
 #### Projects
 
 - [TheTracker](https://github.com/lilcham1/TheTracker): live match tracker for Dota 2 and Deadlock
-- [YouTube Music Desktop](https://github.com/lilcham1/youtube-music-desktop): a compact desktop player for YouTube Music
+- [Encore for YouTube Music](https://lilxcham.com/youtube-music-desktop/): a tiny Windows app to listen together with friends
 - [DesktopGroups](https://github.com/lilcham1/DesktopGroups): iPhone-style folders for the Windows desktop
 - [Vimbara](https://assistantpr.vercel.app/login): your shifts, tasks and money, counted
 - [KneeGuard](https://top.gg/bot/1545896232742953081): a Discord bot that blocks scam, malware and phishing links
