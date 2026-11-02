@@ -10,7 +10,7 @@
 - [DesktopGroups](https://github.com/lilcham1/DesktopGroups): iPhone-style folders for the Windows desktop
 - [Vimbara](https://vimbara.vercel.app/login): your shifts, tasks, money and workouts, counted
 - [KneeGuard](https://lilxcham.com/kneeguard/): a Discord bot that stops scam images, hacked-account spam and phishing links. 30 days free
-- [MeowArcade](https://meowarcade.vercel.app/): 49 party, board, arcade and puzzle games in your browser; friends join with a 4-letter code
+- [MeowArcade](https://meowarcade.vercel.app/): 54 party, board, arcade and puzzle games in your browser; friends join with a 4-letter code
 
 #### Find me
 
